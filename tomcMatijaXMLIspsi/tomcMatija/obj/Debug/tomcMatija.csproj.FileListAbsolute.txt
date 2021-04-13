@@ -1,0 +1,6 @@
+C:\Users\Matija\source\repos\tomcMatijaXMLIspsi\tomcMatija\bin\Debug\tomcMatija.exe.config
+C:\Users\Matija\source\repos\tomcMatijaXMLIspsi\tomcMatija\bin\Debug\tomcMatija.exe
+C:\Users\Matija\source\repos\tomcMatijaXMLIspsi\tomcMatija\bin\Debug\tomcMatija.pdb
+C:\Users\Matija\source\repos\tomcMatijaXMLIspsi\tomcMatija\obj\Debug\tomcMatija.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\tomcMatijaXMLIspsi\tomcMatija\obj\Debug\tomcMatija.exe
+C:\Users\Matija\source\repos\tomcMatijaXMLIspsi\tomcMatija\obj\Debug\tomcMatija.pdb
